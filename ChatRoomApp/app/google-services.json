@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469736585814",
+    "project_id": "thechatroom-8c31c",
+    "storage_bucket": "thechatroom-8c31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469736585814:android:41f0df1e5e34493e5f59f7",
+        "android_client_info": {
+          "package_name": "com.example.chatroomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnN-Unhl8nIIeN3fAx_IgbAvlK9IzHbiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
